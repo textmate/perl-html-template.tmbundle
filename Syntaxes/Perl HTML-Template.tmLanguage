@@ -8,10 +8,6 @@
 	</array>
 	<key>firstLineMatch</key>
 	<string>&lt;(?i:TMPL)_.+?&gt;</string>
-	<key>foldingStartMarker</key>
-	<string>(&lt;(?i:(head|table|tr|div|style|script|ul|ol|form|dl))\b.*?&gt;|^ *&lt;(?i:TMPL_(?:LOOP|UNLESS|IF))\b(?!.*&lt;/(?i:TMPL_(?:LOOP|UNLESS|IF))&gt;))</string>
-	<key>foldingStopMarker</key>
-	<string>(&lt;/(?i:(head|table|tr|div|style|script|ul|ol|form|dl))&gt;|^ *&lt;/(?i:TMPL_(?:LOOP|UNLESS|IF)) *&gt;)</string>
 	<key>keyEquivalent</key>
 	<string>^~H</string>
 	<key>name</key>
